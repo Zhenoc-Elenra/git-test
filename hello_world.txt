@@ -1,1 +1,2 @@
 lorem ipsum ladiedadedo ACME Inc
+Testing git commit new window
